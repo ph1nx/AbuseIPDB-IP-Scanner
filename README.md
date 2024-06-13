@@ -15,7 +15,7 @@ pip install requests
 ### Description
 
 1. **API Key Setup**: 
-   - Requires a valid VirusTotal API key (`apikey`) to authenticate requests.
+   - Requires a valid AbuseIPDB API key (`apikey`) to authenticate requests.
 
 2. **Function `check_ip`**: 
    - Sends a GET request to AbuseIPDB for each IP address in the list.
